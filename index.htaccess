@@ -1,2 +1,0 @@
-RewriteCond %{HTTP:Host} ^https://baiduqr.github.io/
-RewriteRule (.*) https://u.wechat.com/kPBHX93oUG2GRz7tLmDPWgQ [NC,R=301]
