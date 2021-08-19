@@ -1,0 +1,2 @@
+RewriteCond %{HTTP:Host} ^ibibao.com
+RewriteRule (.*) https://u.wechat.com/kPBHX93oUG2GRz7tLmDPWgQ [NC,R=301]
